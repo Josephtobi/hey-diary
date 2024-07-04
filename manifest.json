@@ -3,9 +3,9 @@
     "short_name": "hey_diary",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#EDB3A2",
+    "theme_color": "#EDB3A2",
+    "description": "Your personal buddy.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
